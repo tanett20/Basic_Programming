@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basic_Programming.iml" filepath="$PROJECT_DIR$/.idea/Basic_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_13/HA/HA.iml" filepath="$PROJECT_DIR$/Lesson_13/HA/HA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_13/cw_13/cw_13.iml" filepath="$PROJECT_DIR$/Lesson_13/cw_13/cw_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_14/cw_14/cw_14.iml" filepath="$PROJECT_DIR$/Lesson_14/cw_14/cw_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_15/cw_15/cw_15.iml" filepath="$PROJECT_DIR$/Lesson_15/cw_15/cw_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_16/cw_16/cw_16.iml" filepath="$PROJECT_DIR$/Lesson_16/cw_16/cw_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_17/cw_17/cw_17.iml" filepath="$PROJECT_DIR$/Lesson_17/cw_17/cw_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_22/cw_22/cw_22.iml" filepath="$PROJECT_DIR$/Lesson_22/cw_22/cw_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_24/cw_24/cw_24.iml" filepath="$PROJECT_DIR$/Lesson_24/cw_24/cw_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_25/cw_25/cw_25.iml" filepath="$PROJECT_DIR$/Lesson_25/cw_25/cw_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_13/demo_2/demo_2.iml" filepath="$PROJECT_DIR$/Lesson_13/demo_2/demo_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_13/hello_java/hello_java.iml" filepath="$PROJECT_DIR$/Lesson_13/hello_java/hello_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_22/untitled/untitled.iml" filepath="$PROJECT_DIR$/Lesson_22/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
